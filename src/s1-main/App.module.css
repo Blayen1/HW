@@ -4,7 +4,9 @@
 }
 
 .hw {
-    background:;
+font-family: 'Montserrat', sans-serif;
+    height: 300px;
+    
 }
 
 .hwTitle {
@@ -18,4 +20,5 @@ margin-top: 131px;
 padding-bottom: 10px;
 border-bottom: 1px solid #D9D9D9;
 color: #000000;
+margin-bottom: 50px;
 }
