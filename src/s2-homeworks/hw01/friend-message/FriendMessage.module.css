@@ -1,5 +1,5 @@
 .friendMessage {
-    position: relative;
+    
     text-align: left;
     width: 100%;
     margin-top: 24px;
@@ -14,7 +14,7 @@
 }
 
 .friendImageAndText img {
-    position: absolute;
+    
     width: 48px;
     height: 48px;
     border-radius: 50%;

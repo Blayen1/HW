@@ -1,5 +1,4 @@
 .sendForm {
-position: relative;
 }
 
 .textarea {
@@ -19,7 +18,7 @@ position: relative;
     padding: 10px 38px;
     border:none;
     margin-left: 50px;
-    position: absolute;
+    
     top: 10px;
     color: white;
     font-family: 'Montserrat' sans-serif;
