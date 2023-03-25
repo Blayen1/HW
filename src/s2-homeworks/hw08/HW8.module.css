@@ -1,23 +1,29 @@
 .item {
+    
 }
 
 .item:last-of-type {
 }
 
 .users {
+   margin-top: 25px;
 }
 
 .buttonsContainer {
+   
 }
 
 .container {
+
 }
 
 .thead {
+    margin-bottom: 30px;
 }
 
 .nameCol {
 }
 
 .ageCol {
+    
 }
