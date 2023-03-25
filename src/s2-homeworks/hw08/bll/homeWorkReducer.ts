@@ -13,7 +13,7 @@ export const homeWorkReducer = (
     case "sort": {
       // by name
 
-      return [...state.sort((a, b) => action.payload === 'up' ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name))]; 
+      return [...state].sort((a, b) => action.payload === 'up' ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name)); 
     }
     case "check": {
       return state.filter(el => el.age >= 18 ? '' : el)
